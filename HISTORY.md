@@ -90,3 +90,7 @@
 ### 1.2.7
 
     * Bump node fetch version number to 2.6.1
+
+### 1.2.8
+
+    * Return the whole message from solr, even if the status code is not a 200
