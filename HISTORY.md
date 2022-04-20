@@ -94,3 +94,7 @@
 ### 1.2.8
 
     * Return the whole message from solr, even if the status code is not a 200
+
+### 1.2.9
+
+    * Add performance logging for the call to the solr server
