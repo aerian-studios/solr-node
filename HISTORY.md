@@ -98,3 +98,7 @@
 ### 1.2.9
 
     * Add performance logging for the call to the solr server
+
+### 1.2.10
+
+    * Add new delete method, that will delete by ids
