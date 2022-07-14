@@ -25,7 +25,7 @@ declare module "solr-node" {
       options?: Client.UpdateOptions
     ): Promise<Client.SolrResponse<R>>;
     deleteByIds<R extends object>(
-      query?: string[],
+      ids?: string[],
       options?: Client.UpdateOptions
     ): Promise<Client.SolrResponse<R>>;
     ping<R extends object>(): Promise<Client.SolrResponse<R>>;
