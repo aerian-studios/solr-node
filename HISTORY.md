@@ -102,3 +102,7 @@
 ### 1.2.10
 
     * Add new delete method, that will delete by ids
+
+### 1.2.11
+
+    * Add new env param to enable/disable logging
